@@ -35,7 +35,7 @@
 - [慕课网 Spring Cloud 微服务实战](https://github.com/zq99299/essay-note/blob/master/chapter/imooc/spring_cloud/index.md)
 ：内容不太行，没有接触过的可以让你有一个大概的了解
 - [慕课网 Spring Cloud 微服务实战 -> 配套练习项目](https://github.com/zq99299/immoc-spring-cloud)
-- [CSS深入理解-张星旭系列](https://github.com/zq99299/essay-note/blob/master/SUMMARY.md#%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E7%B3%BB%E5%88%97)
+- [CSS 深入理解-张星旭系列](https://github.com/zq99299/essay-note/blob/master/SUMMARY.md#%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E7%B3%BB%E5%88%97)
 ：后端程序员不会 CSS 样式，请学习这个
 - [HTML/CSS 响应式（小部分）](https://github.com/zq99299/essay-note/blob/master/chapter/htmlcss_responsive/index.md)
 ：后端程序员不会 CSS 样式，补充学习
@@ -49,9 +49,9 @@
 - [JAVA 高端基础](https://github.com/zq99299/hp-note/blob/master/SUMMARY.md)
 ：一小部分，请参阅 高端JAVA基础 部分
 - [vue 学习笔记](https://github.com/zq99299/vue-note/blob/master/SUMMARY.md)
-：包含了 vue2-搭建开发环境、慕课网 vue 移动端开发(音乐app)、vue 组件库开发
-- [慕课网 vue 移动端开发(音乐app)](https://github.com/zq99299/vue-music)
-：vue移动端开发(音乐app)
+：包含了 vue2-搭建开发环境、慕课网 vue 移动端开发(音乐 app)、vue 组件库开发
+- [慕课网 vue 移动端开发(音乐 app) -> 配套练习项目](https://github.com/zq99299/vue-music)
+：vue 移动端开发(音乐 app)
 - [Gradle 早期简单学习笔记](https://github.com/zq99299/gradle-note)
 
 ### 新笔记本精彩知识精选（良好的在线阅读）
