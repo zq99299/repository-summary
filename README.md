@@ -35,8 +35,8 @@
 - [某课 Spring Cloud 微服务实战](https://github.com/zq99299/essay-note/blob/master/chapter/imooc/spring_cloud/index.md)
 ：内容不太行，没有接触过的可以让你有一个大概的了解
 - [某课 Spring Cloud 微服务实战 -> 配套练习项目](https://github.com/zq99299/immoc-spring-cloud)
-- [CSS 深入理解-张星旭系列](https://github.com/zq99299/essay-note/blob/master/SUMMARY.md#%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E7%B3%BB%E5%88%97)
-：后端程序员不会 CSS 样式，请学习这个
+- [CSS 深入理解-张星旭系列](https://github.com/zq99299/essay-note/blob/master/chapter/htmlcss/README.md)
+：后端程序员不会 CSS 样式，学完可以搞定简单的效果，不至于啥都看不懂
 - [HTML/CSS 响应式（小部分）](https://github.com/zq99299/essay-note/blob/master/chapter/htmlcss_responsive/index.md)
 ：后端程序员不会 CSS 样式，补充学习
 - [spring-restdocs-asciidoctor](https://github.com/zq99299/essay-note/blob/master/chapter/spring/spring_restdocs_asciidoctor/index.md)
