@@ -4,7 +4,7 @@
 ## 仓库类
 - [essay-note](https://github.com/zq99299/essay-note)
   
-  老笔记本，包含了：慕课网 SpringSecurity 视频教程笔记、慕课网 Spring Cloud 微服务实战笔记、CSS 深入理解-张星旭系列、
+  老笔记本，包含了：某课 SpringSecurity 视频教程笔记、某课 Spring Cloud 微服务实战笔记、CSS 深入理解-张星旭系列、
   spring-restdocs-asciidoctor、Spring-WebSocket 等系列的笔记
   
   是以 GitBook 为蓝本写的，GitBook 被抛弃后，该仓库内容很多了，主要是排版质量不行，就暂停更新了
@@ -21,7 +21,7 @@
   linux 系列教程笔记，目前有《Linux 基础篇（鸟哥私房菜）- 第四版》 已学完
 - [mysql-tutorial](https://github.com/zq99299/mysql-tutorial)
    
-  mysql 系列知识，目前在学《慕课网 给程序员的 MySQL 必知必会》
+  mysql 系列知识，目前在学《某课 给程序员的 MySQL 必知必会》
 
 ## 笔记系列
 由于某些笔记是放在一个大仓库的笔记本中的，某些笔记还不错，这里做一部分的汇总；
@@ -29,12 +29,12 @@
 优先查看前面的「仓库类」，因为提供了良好的在线阅读体验
 
 ### 老笔记本精彩知识精选（GitHub 仓库阅读）
-- [慕课网 SpringSecurity 视频教程笔记](https://github.com/zq99299/essay-note/blob/master/chapter/imooc/spring_security/index.md)
+- [某课 SpringSecurity 视频教程笔记](https://github.com/zq99299/essay-note/blob/master/chapter/imooc/spring_security/index.md)
 ：写得不错，笔记使用 boot2 完成
-- [慕课网 SpringSecurity 视频教程笔记 -> 配套练习项目](https://github.com/zq99299/spring-security)
-- [慕课网 Spring Cloud 微服务实战](https://github.com/zq99299/essay-note/blob/master/chapter/imooc/spring_cloud/index.md)
+- [某课 SpringSecurity 视频教程笔记 -> 配套练习项目](https://github.com/zq99299/spring-security)
+- [某课 Spring Cloud 微服务实战](https://github.com/zq99299/essay-note/blob/master/chapter/imooc/spring_cloud/index.md)
 ：内容不太行，没有接触过的可以让你有一个大概的了解
-- [慕课网 Spring Cloud 微服务实战 -> 配套练习项目](https://github.com/zq99299/immoc-spring-cloud)
+- [某课 Spring Cloud 微服务实战 -> 配套练习项目](https://github.com/zq99299/immoc-spring-cloud)
 - [CSS 深入理解-张星旭系列](https://github.com/zq99299/essay-note/blob/master/SUMMARY.md#%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E7%B3%BB%E5%88%97)
 ：后端程序员不会 CSS 样式，请学习这个
 - [HTML/CSS 响应式（小部分）](https://github.com/zq99299/essay-note/blob/master/chapter/htmlcss_responsive/index.md)
@@ -49,8 +49,8 @@
 - [JAVA 高端基础](https://github.com/zq99299/hp-note/blob/master/SUMMARY.md)
 ：一小部分，请参阅 高端JAVA基础 部分
 - [vue 学习笔记](https://github.com/zq99299/vue-note/blob/master/SUMMARY.md)
-：包含了 vue2-搭建开发环境、慕课网 vue 移动端开发(音乐 app)、vue 组件库开发
-- [慕课网 vue 移动端开发(音乐 app) -> 配套练习项目](https://github.com/zq99299/vue-music)
+：包含了 vue2-搭建开发环境、某课 vue 移动端开发(音乐 app)、vue 组件库开发
+- [某课 vue 移动端开发(音乐 app) -> 配套练习项目](https://github.com/zq99299/vue-music)
 ：vue 移动端开发(音乐 app)
 - [Gradle 早期简单学习笔记](https://github.com/zq99299/gradle-note)
 
@@ -61,7 +61,7 @@
 - [亿级流量电商详情页系统实战（第二版）-> 之第一版练习项目](https://github.com/zq99299/cache-pdp)
 - [亿级流量电商详情页系统实战（第二版）-> 之第二版练习项目](https://github.com/zq99299/cache-eshop)
 ：[第一版和第二版区别请阅读该说明](https://github.com/zq99299/cache-pdp#%E7%AC%AC%E4%B8%80%E7%89%88%E4%B8%8E%E7%AC%AC%E4%BA%8C%E7%89%88%E7%9A%84%E5%8C%BA%E5%88%AB)
-- [慕课网 JAVA 设计模式精讲 Debug 方式+内存分析 笔记](https://zq99299.github.io/note-book/imocc/design_pattern/)
+- [某课 JAVA 设计模式精讲 Debug 方式+内存分析 笔记](https://zq99299.github.io/note-book/imocc/design_pattern/)
 - [研磨设计模式（李兴华）](https://zq99299.github.io/note-book/design_pattern/)
 - [MyCat1 前端连接交互探索源码级 + 手写基础版 MySQL 协议代理登录转发](https://zq99299.github.io/note-book/mycat/frontend_connection_interaction.html)
 - [spring cloud config](https://zq99299.github.io/note-book/spring-cloud-tutorial/config/)
