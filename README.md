@@ -2,7 +2,7 @@
 本账户下的笔记项目越来越多，比较凌乱，特将一些比较可以的仓库分类成导航目录，方便查阅
 
 ## 仓库类 🎉
-- [essay-note](https://github.com/zq99299/essay-note)
+- [essay-note](https://github.com/zq99299/essay-note) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/essay-note)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/essay-note)
   
@@ -10,24 +10,24 @@
   spring-restdocs-asciidoctor、Spring-WebSocket 等系列的笔记
   
   是以 GitBook 为蓝本写的，GitBook 被抛弃后，该仓库内容很多了，主要是排版质量不行，就暂停更新了
-- [note-book](https://github.com/zq99299/note-book) 
+- [note-book](https://github.com/zq99299/note-book) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/note-book)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/note-book)
    
   新笔记本，以后都使用 vuepress 为蓝本编写的，排版质量比较高
   
   内容包含：git、elasticsearch、mycat、设计模式、gradle、vue 等系列内容
-- [java-tutorial](https://github.com/zq99299/java-tutorial) 
+- [java-tutorial](https://github.com/zq99299/java-tutorial) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/java-tutorial)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/java-tutorial)
 
   Java8 官网教程文档，机翻 + 经验实践
-- [linux-tutorial](https://github.com/zq99299/linux-tutorial)
+- [linux-tutorial](https://github.com/zq99299/linux-tutorial) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/linux-tutorial)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/linux-tutorial)
 
   linux 系列教程笔记，目前有《Linux 基础篇（鸟哥私房菜）- 第四版》 已学完
-- [mysql-tutorial](https://github.com/zq99299/mysql-tutorial)
+- [mysql-tutorial](https://github.com/zq99299/mysql-tutorial) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/mysql-tutorial)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/mysql-tutorial)
 
@@ -82,15 +82,19 @@
 - [Quartz 表达式相关工具类与 VUE 实现的表达式选择器](https://blog.csdn.net/mr_zhuqiang/article/details/92572042)
 ## 项目类
 
-- [gitbook-plugin-anchor-navigation-ex](https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex)
-：gitbook 侧边栏+页面导航综合类插件
+- [gitbook-plugin-anchor-navigation-ex](https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex) 
+&nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/gitbook-plugin-anchor-navigation-ex)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/gitbook-plugin-anchor-navigation-ex)
 
+    gitbook 侧边栏+页面导航综合类插件
+
 - [gitbook-plugin-page-footer-ex](https://github.com/zq99299/gitbook-plugin-page-footer-ex)
-：gitbook 定制每篇文章的页脚，可以添加版权和显示文件修改时间和新增时间 的插件
+&nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/gitbook-plugin-page-footer-ex)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/gitbook-plugin-page-footer-ex)
+    
+    gitbook 定制每篇文章的页脚，可以添加版权和显示文件修改时间和新增时间 的插件
 
 - [fast-csv](https://github.com/zq99299/fast-csv)
 ：使用 NIO + csv 协议手写 csv 读写功能
