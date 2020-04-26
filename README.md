@@ -82,6 +82,11 @@
 - [Quartz 表达式相关工具类与 VUE 实现的表达式选择器](https://blog.csdn.net/mr_zhuqiang/article/details/92572042)
 ## 项目类
 
+- [vuepress-plugin-baidu-tongji-analytics](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-baidu-tongji-analytics)
+：vuepress 百度统计插件
+
+---
+
 - [gitbook-plugin-anchor-navigation-ex](https://github.com/zq99299/gitbook-plugin-anchor-navigation-ex) 
 &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/gitbook-plugin-anchor-navigation-ex)
