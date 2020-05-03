@@ -38,6 +38,20 @@
 
 优先查看前面的「仓库类」，因为提供了良好的在线阅读体验
 
+### 新笔记本精彩知识精选（良好的在线阅读）
+- [elasticsearch 核心知识篇](https://zq99299.github.io/note-book/elasticsearch-core/)
+- [elasticsearch 高级篇](https://zq99299.github.io/note-book/elasticsearch-senior/)
+- [亿级流量电商详情页系统实战（第二版）：缓存架构+高可用服务架构+微服务架构](https://zq99299.github.io/note-book/cache-pdp/)
+- [亿级流量电商详情页系统实战（第二版）-> 之第一版练习项目](https://github.com/zq99299/cache-pdp)
+- [亿级流量电商详情页系统实战（第二版）-> 之第二版练习项目](https://github.com/zq99299/cache-eshop)
+：[第一版和第二版区别请阅读该说明](https://github.com/zq99299/cache-pdp#%E7%AC%AC%E4%B8%80%E7%89%88%E4%B8%8E%E7%AC%AC%E4%BA%8C%E7%89%88%E7%9A%84%E5%8C%BA%E5%88%AB)
+- [某课 JAVA 设计模式精讲 Debug 方式+内存分析 笔记](https://zq99299.github.io/note-book/imocc/design_pattern/)
+- [研磨设计模式（李兴华）](https://zq99299.github.io/note-book/design_pattern/)
+- [MyCat1 前端连接交互探索源码级 + 手写基础版 MySQL 协议代理登录转发](https://zq99299.github.io/note-book/mycat/frontend_connection_interaction.html)
+- [spring cloud config](https://zq99299.github.io/note-book/spring-cloud-tutorial/config/)
+- [CSS 深入理解 张鑫旭](https://zq99299.github.io/note-book/css-zxx/)
+：重新学习，记录的笔记更多更完整，可以吧它当成工具书来搜藏
+
 ### 老笔记本精彩知识精选（GitHub 仓库阅读）
 - [某课 SpringSecurity 视频教程笔记](https://github.com/zq99299/essay-note/blob/master/chapter/imooc/spring_security/index.md)
 ：写得不错，笔记使用 boot2 完成
@@ -64,17 +78,6 @@
 ：vue 移动端开发(音乐 app)
 - [Gradle 早期简单学习笔记](https://github.com/zq99299/gradle-note)
 
-### 新笔记本精彩知识精选（良好的在线阅读）
-- [elasticsearch 核心知识篇](https://zq99299.github.io/note-book/elasticsearch-core/)
-- [elasticsearch 高级篇](https://zq99299.github.io/note-book/elasticsearch-senior/)
-- [亿级流量电商详情页系统实战（第二版）：缓存架构+高可用服务架构+微服务架构](https://zq99299.github.io/note-book/cache-pdp/)
-- [亿级流量电商详情页系统实战（第二版）-> 之第一版练习项目](https://github.com/zq99299/cache-pdp)
-- [亿级流量电商详情页系统实战（第二版）-> 之第二版练习项目](https://github.com/zq99299/cache-eshop)
-：[第一版和第二版区别请阅读该说明](https://github.com/zq99299/cache-pdp#%E7%AC%AC%E4%B8%80%E7%89%88%E4%B8%8E%E7%AC%AC%E4%BA%8C%E7%89%88%E7%9A%84%E5%8C%BA%E5%88%AB)
-- [某课 JAVA 设计模式精讲 Debug 方式+内存分析 笔记](https://zq99299.github.io/note-book/imocc/design_pattern/)
-- [研磨设计模式（李兴华）](https://zq99299.github.io/note-book/design_pattern/)
-- [MyCat1 前端连接交互探索源码级 + 手写基础版 MySQL 协议代理登录转发](https://zq99299.github.io/note-book/mycat/frontend_connection_interaction.html)
-- [spring cloud config](https://zq99299.github.io/note-book/spring-cloud-tutorial/config/)
 
 ### CSDN 笔记精选
 - [spring cloud stream 基础使用](https://blog.csdn.net/mr_zhuqiang/article/details/84820076)
