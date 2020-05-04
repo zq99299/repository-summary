@@ -87,6 +87,8 @@
 
 - [vuepress-plugin-baidu-tongji-analytics](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-baidu-tongji-analytics)
 ：vuepress 百度统计插件
+- [vuepress-plugin-toolbar](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-toolbar)
+：vuepress 侧边工具栏插件
 
 ---
 
