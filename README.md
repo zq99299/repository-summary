@@ -16,7 +16,13 @@
    
   新笔记本，以后都使用 vuepress 为蓝本编写的，排版质量比较高
   
-  内容包含：git、elasticsearch、mycat、设计模式、gradle、vue 等系列内容
+  成套内容包含：
+  - elasticsearch 初级、高级
+  - 缓存架构-亿级流量电商详情页系统实战
+  - 设计模式（某课）、研磨设计模式
+  - Spring Cloud Config 官网教程阅读笔记
+  
+  另外包含一些零散的知识：mycat、gradle、npm、k8s、docker、virtualbox 等内容
 - [java-tutorial](https://github.com/zq99299/java-tutorial) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/java-tutorial)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/java-tutorial)
@@ -26,12 +32,12 @@
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/linux-tutorial)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/linux-tutorial)
 
-  linux 系列教程笔记，目前有《Linux 基础篇（鸟哥私房菜）- 第四版》 已学完
+  linux 系列教程笔记，目前有《Linux 基础篇（鸟哥私房菜）- 第四版》 
 - [mysql-tutorial](https://github.com/zq99299/mysql-tutorial) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/mysql-tutorial)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/mysql-tutorial)
 
-  mysql 系列知识，目前在学《某课 给程序员的 MySQL 必知必会》
+  mysql 系列知识，包含《某课 给程序员的 MySQL 必知必会》、《阿里新零售数据库设计与实战》
 
 ## 笔记系列 📖 
 由于某些笔记是放在一个大仓库的笔记本中的，某些笔记还不错，这里做一部分的汇总；
