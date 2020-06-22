@@ -39,6 +39,18 @@
 
   mysql 系列知识，包含《某课 给程序员的 MySQL 必知必会》、《阿里新零售数据库设计与实战》
 
+- [mq-tutorial](https://github.com/zq99299/mq-tutorial) &nbsp; &nbsp; 
+![GitHub stars](https://img.shields.io/github/stars/zq99299/mq-tutorial)
+![GitHub forks](https://img.shields.io/github/forks/zq99299/mq-tutorial)
+
+  mq 系列知识，学习中
+  
+- [dsalg-tutorial](https://github.com/zq99299/dsalg-tutorial) &nbsp; &nbsp; 
+![GitHub stars](https://img.shields.io/github/stars/zq99299/dsalg-tutorial)
+![GitHub forks](https://img.shields.io/github/forks/zq99299/dsalg-tutorial)
+
+  数据结构与算法 系列知识，学习中
+
 ## 笔记系列 📖 
 由于某些笔记是放在一个大仓库的笔记本中的，某些笔记还不错，这里做一部分的汇总；
 
