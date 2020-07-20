@@ -5,7 +5,7 @@
     <br/>
     <span>希望聚集一些有自己精彩笔记分享的人</span>
     <br/>
-    <a href="https://jq.qq.com/?_wv=1027&k=RE3803x2">点击链接加入群聊【技术笔记分享】</a>
+    <a href="https://jq.qq.com/?_wv=1027&k=RE3803x2" target="_blank">点击链接加入群聊【技术笔记分享】</a>
 </p>
 
 # 仓库汇总精选 😎
