@@ -1,8 +1,10 @@
-<div style="align: center">
- <img src="./notes.png"/>
-</div>
-
-# 仓库汇总精选 😎   
+<p align="center">
+    <img width="180" src="./notes.png" alt="logo">
+</p>
+<p align="center">
+    <h1>仓库汇总精选 😎 </h1>
+</p>
+  
 本账户下的笔记项目越来越多，比较凌乱，特将一些比较可以的仓库分类成导航目录，方便查阅
 
 一个分享群，希望聚集一些有自己精彩笔记分享的人，[点击链接加入群聊【技术笔记分享】](https://jq.qq.com/?_wv=1027&k=RE3803x2)
