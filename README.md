@@ -1,12 +1,16 @@
 <p align="center">
-    <img width="180" src="./notes.png" alt="logo">
+    <a href="https://vuepress.vuejs.org/" target="_blank">
+     <img width="180" src="./notes.png" alt="logo">
+    </a>
+    <br/>
+    <span>希望聚集一些有自己精彩笔记分享的人</span>
+    <br/>
+    <a href="https://jq.qq.com/?_wv=1027&k=RE3803x2">点击链接加入群聊【技术笔记分享】</a>
 </p>
 
 # 仓库汇总精选 😎
   
 本账户下的笔记项目越来越多，比较凌乱，特将一些比较可以的仓库分类成导航目录，方便查阅
-
-一个分享群，希望聚集一些有自己精彩笔记分享的人，[点击链接加入群聊【技术笔记分享】](https://jq.qq.com/?_wv=1027&k=RE3803x2)
 
 ## 仓库类 🎉
 - [essay-note](https://github.com/zq99299/essay-note) &nbsp; &nbsp; 
