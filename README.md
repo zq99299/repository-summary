@@ -1,9 +1,8 @@
 <p align="center">
     <img width="180" src="./notes.png" alt="logo">
 </p>
-<p align="center">
-    <h1>仓库汇总精选 😎 </h1>
-</p>
+
+# 仓库汇总精选 😎
   
 本账户下的笔记项目越来越多，比较凌乱，特将一些比较可以的仓库分类成导航目录，方便查阅
 
