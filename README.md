@@ -112,6 +112,11 @@
 - [spring cloud stream 基础使用](https://blog.csdn.net/mr_zhuqiang/article/details/84820076)
 - [Gradle 发布 JAR 包到 maven 中央仓库(sonatype )](https://blog.csdn.net/mr_zhuqiang/article/details/84564256)
 - [Quartz 表达式相关工具类与 VUE 实现的表达式选择器](https://blog.csdn.net/mr_zhuqiang/article/details/92572042)
+
+## 其他
+
+- [IDEA 最常用默认快捷键-汉化版](https://github.com/zq99299/idea)
+
 ## 项目类
 
 - [vuepress-plugin-baidu-tongji-analytics](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-baidu-tongji-analytics)
