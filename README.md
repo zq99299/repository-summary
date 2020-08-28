@@ -115,7 +115,9 @@
 
 ## 其他
 
-- [IDEA 最常用默认快捷键-汉化版](https://github.com/zq99299/idea)
+- [IDEA 常用知识点分享](https://github.com/zq99299/idea)
+    - [IDEA 常用默认快捷键（官方） - 汉化版](https://github.com/zq99299/idea/blob/master/shortcut/README.md)
+    - [IDEA 常用插件推荐](https://github.com/zq99299/idea/blob/master/plugins/README.md)
 
 ## 项目类
 
