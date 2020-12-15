@@ -125,6 +125,8 @@
 ：vuepress 百度统计插件
 - [vuepress-plugin-toolbar](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-toolbar)
 ：vuepress 侧边工具栏插件
+- [vuepress-plugin-tags](https://github.com/zq99299/vuepress-plugin/tree/master/vuepress-plugin-tags)
+：vuepress 在主标题下方生成标签列表
 
 ---
 
