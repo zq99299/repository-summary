@@ -9,7 +9,7 @@
 </p>
 
 # 仓库汇总精选 😎
-  
+
 本账户下的笔记项目越来越多，比较凌乱，特将一些比较可以的仓库分类成导航目录，方便查阅
 
 ## 仓库类 🎉
@@ -21,10 +21,11 @@
   spring-restdocs-asciidoctor、Spring-WebSocket 等系列的笔记
   
   是以 GitBook 为蓝本写的，GitBook 被抛弃后，该仓库内容很多了，主要是排版质量不行，就暂停更新了
+  
 - [note-book](https://github.com/zq99299/note-book) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/note-book)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/note-book)
-   
+  
   新笔记本，以后都使用 vuepress 为蓝本编写的，排版质量比较高
   
   成套内容包含：
@@ -34,16 +35,19 @@
   - Spring Cloud Config 官网教程阅读笔记
   
   另外包含一些零散的知识：mycat、gradle、npm、k8s、docker、virtualbox 等内容
+  
 - [java-tutorial](https://github.com/zq99299/java-tutorial) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/java-tutorial)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/java-tutorial)
 
   Java8 官网教程文档，机翻 + 经验实践
+  
 - [linux-tutorial](https://github.com/zq99299/linux-tutorial) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/linux-tutorial)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/linux-tutorial)
 
   linux 系列教程笔记，目前有《Linux 基础篇（鸟哥私房菜）- 第四版》 
+  
 - [mysql-tutorial](https://github.com/zq99299/mysql-tutorial) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/mysql-tutorial)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/mysql-tutorial)
@@ -54,13 +58,17 @@
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/mq-tutorial)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/mq-tutorial)
 
-  mq 系列知识，学习中
+  mq 系列知识：《RabbitMq 实战指南》
   
 - [dsalg-tutorial](https://github.com/zq99299/dsalg-tutorial) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/dsalg-tutorial)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/dsalg-tutorial)
 
   数据结构与算法 系列知识，学习中
+  
+- [note-combat](https://github.com/zq99299/note-combat)
+
+  实战笔记：主要定位是在工作中实际遇到的难题、没有接触过、或稍有难度的真实场景解决记录；
 
 ## 笔记系列 📖 
 由于某些笔记是放在一个大仓库的笔记本中的，某些笔记还不错，这里做一部分的汇总；
@@ -141,7 +149,7 @@
 &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/gitbook-plugin-page-footer-ex)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/gitbook-plugin-page-footer-ex)
-    
+  
     gitbook 定制每篇文章的页脚，可以添加版权和显示文件修改时间和新增时间 的插件
 
 - [fast-csv](https://github.com/zq99299/fast-csv)
