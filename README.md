@@ -35,7 +35,9 @@
   - Spring Cloud Config 官网教程阅读笔记
   
   另外包含一些零散的知识：mycat、gradle、npm、k8s、docker、virtualbox 等内容
-  
+- [note-book2](https://github.com/zq99299/note-book2)  
+    
+  note-book2 分仓，主仓由于笔记文件太多，导致 vuepress 构建吃力。
 - [java-tutorial](https://github.com/zq99299/java-tutorial) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/java-tutorial)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/java-tutorial)
