@@ -158,6 +158,6 @@
     gitbook 定制每篇文章的页脚，可以添加版权和显示文件修改时间和新增时间 的插件
 
 - [fast-csv](https://github.com/zq99299/fast-csv)
-：使用 NIO + csv 协议手写 csv 读写功能
+：使用 NIO + csv 协议手写 csv 读写功能； 对 CSV 协议解析有一点问题，暂时就这样了
 - [wx_sdk](https://gitee.com/zhuqiang/wx_sdk)
 : 早期的 wx 功能，从接入公众号，到开发调用微信 api ，搭成了一个架子，包含了一部分常用的 API
