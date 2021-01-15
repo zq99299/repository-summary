@@ -71,6 +71,9 @@
 - [note-combat](https://github.com/zq99299/note-combat)
 
   实战笔记：主要定位是在工作中实际遇到的难题、没有接触过、或稍有难度的真实场景解决记录；
+- [note-architect](https://github.com/zq99299/note-architect)
+
+  架构师笔记：主要定位是对架构师系统学习相关笔记；
 
 ## 笔记系列 📖 
 由于某些笔记是放在一个大仓库的笔记本中的，某些笔记还不错，这里做一部分的汇总；
