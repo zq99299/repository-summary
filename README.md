@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/zq99299/repository-summary" target="_blank">
-     <img width="300" src="./mlogo.gif" alt="logo">
+     <img width="300" src="./BIGMLOGO.gif" alt="logo">
     </a>
     <br/>
     <span>希望聚集一些有自己精彩笔记分享的人</span>
