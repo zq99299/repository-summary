@@ -19,17 +19,27 @@
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/essay-note)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/essay-note)
   
-  老笔记本，包含了：某课 SpringSecurity 视频教程笔记、某课 Spring Cloud 微服务实战笔记、CSS 深入理解-张星旭系列、
-  spring-restdocs-asciidoctor、Spring-WebSocket 等系列的笔记
+  老笔记本，是以 GitBook 为蓝本写的，GitBook 被抛弃后，该仓库内容很多了，主要是排版质量不行，就暂停更新了
   
-  是以 GitBook 为蓝本写的，GitBook 被抛弃后，该仓库内容很多了，主要是排版质量不行，就暂停更新了
+  成套内容包含：
+  
+  - 某课 SpringSecurity 视频教程笔记 
+  - 某课 Spring Cloud 微服务实战笔记
+  - CSS 深入理解-张星旭系列
+  
+   自己原创笔记包含：  
+  
+    - spring-restdocs-asciidoctor
+    - Spring-WebSocket 
+  
+    另外还有一些零散的知识
   
 - [note-book](https://github.com/zq99299/note-book) &nbsp; &nbsp; 
-![GitHub stars](https://img.shields.io/github/stars/zq99299/note-book)
-![GitHub forks](https://img.shields.io/github/forks/zq99299/note-book)
-  
+  ![GitHub stars](https://img.shields.io/github/stars/zq99299/note-book)
+  ![GitHub forks](https://img.shields.io/github/forks/zq99299/note-book)
+
   新笔记本，以后都使用 vuepress 为蓝本编写的，排版质量比较高
-  
+
   成套内容包含：
   - elasticsearch 初级、高级
   - 缓存架构-亿级流量电商详情页系统实战
@@ -41,35 +51,35 @@
   - 说透中台
   - Oath 2.0 实战
   - Git 系统学习笔记
-  
+
   另外包含一些零散的知识：mycat、gradle、npm、k8s、docker、virtualbox 、vuepress 等内容
-  
+
 - [note-book2](https://github.com/zq99299/note-book2) &nbsp; &nbsp; 
-![GitHub stars](https://img.shields.io/github/stars/zq99299/note-book2)
-![GitHub forks](https://img.shields.io/github/forks/zq99299/note-book2)
-  
+  ![GitHub stars](https://img.shields.io/github/stars/zq99299/note-book2)
+  ![GitHub forks](https://img.shields.io/github/forks/zq99299/note-book2)
+
   note-book2 分仓，主仓由于笔记文件太多，导致 vuepress 构建吃力。
-  
+
   成套内容包含：
-  
+
   - JAVA 生产环境下性能监控与调优详解
   - 透视 HTTP 协议
   - DDD 实战课（学习中）
-  
+
 - [java-tutorial](https://github.com/zq99299/java-tutorial) &nbsp; &nbsp; 
-![GitHub stars](https://img.shields.io/github/stars/zq99299/java-tutorial)
-![GitHub forks](https://img.shields.io/github/forks/zq99299/java-tutorial)
+  ![GitHub stars](https://img.shields.io/github/stars/zq99299/java-tutorial)
+  ![GitHub forks](https://img.shields.io/github/forks/zq99299/java-tutorial)
 
   Java8 官网教程文档，机翻 + 经验实践
-  
+
   「基础篇」已完成，「高级篇」已更新至「JDBC 数据库访问」，由于最近都在学习其他方面的知识，该项目可能很长一段时间都不会继续更新了
-  
+
 - [linux-tutorial](https://github.com/zq99299/linux-tutorial) &nbsp; &nbsp; 
-![GitHub stars](https://img.shields.io/github/stars/zq99299/linux-tutorial)
-![GitHub forks](https://img.shields.io/github/forks/zq99299/linux-tutorial)
+  ![GitHub stars](https://img.shields.io/github/stars/zq99299/linux-tutorial)
+  ![GitHub forks](https://img.shields.io/github/forks/zq99299/linux-tutorial)
 
   linux 系列教程笔记，目前有《Linux 基础篇（鸟哥私房菜）- 第四版》 
-  
+
 - [mysql-tutorial](https://github.com/zq99299/mysql-tutorial) &nbsp; &nbsp; 
   ![GitHub stars](https://img.shields.io/github/stars/zq99299/mysql-tutorial)
   ![GitHub forks](https://img.shields.io/github/forks/zq99299/mysql-tutorial)
@@ -81,33 +91,33 @@
   - 高性能 MySQL 第三版（太难，只学习了其中一部分，实在看不懂，看不下去了）
 
 - [mq-tutorial](https://github.com/zq99299/mq-tutorial) &nbsp; &nbsp; 
-![GitHub stars](https://img.shields.io/github/stars/zq99299/mq-tutorial)
-![GitHub forks](https://img.shields.io/github/forks/zq99299/mq-tutorial)
+  ![GitHub stars](https://img.shields.io/github/stars/zq99299/mq-tutorial)
+  ![GitHub forks](https://img.shields.io/github/forks/zq99299/mq-tutorial)
 
   mq 系列知识，成套内容包含：RabbitMq 实战指南
-  
+
 - [dsalg-tutorial](https://github.com/zq99299/dsalg-tutorial) &nbsp; &nbsp; 
-![GitHub stars](https://img.shields.io/github/stars/zq99299/dsalg-tutorial)
-![GitHub forks](https://img.shields.io/github/forks/zq99299/dsalg-tutorial)
+  ![GitHub stars](https://img.shields.io/github/stars/zq99299/dsalg-tutorial)
+  ![GitHub forks](https://img.shields.io/github/forks/zq99299/dsalg-tutorial)
 
   数据结构与算法 系列知识，成套内容包含 ：图解 Java 数据结构和算法
-  
+
 - [note-combat](https://github.com/zq99299/note-combat)&nbsp; &nbsp; 
-![GitHub stars](https://img.shields.io/github/stars/zq99299/note-combat)
-![GitHub forks](https://img.shields.io/github/forks/zq99299/note-combat)
+  ![GitHub stars](https://img.shields.io/github/stars/zq99299/note-combat)
+  ![GitHub forks](https://img.shields.io/github/forks/zq99299/note-combat)
 
   实战笔记：主要定位是在工作中实际遇到的难题、没有接触过、或稍有难度的真实场景解决记录；
-  
+
   更新缓慢，有时候可能记不起来需要记录。
-  
+
 - [note-architect](https://github.com/zq99299/note-architect) &nbsp; &nbsp; 
-![GitHub stars](https://img.shields.io/github/stars/zq99299/note-architect)
-![GitHub forks](https://img.shields.io/github/forks/zq99299/note-architect)
+  ![GitHub stars](https://img.shields.io/github/stars/zq99299/note-architect)
+  ![GitHub forks](https://img.shields.io/github/forks/zq99299/note-architect)
 
   架构师笔记：主要定位是对架构师系统学习相关笔记；
-  
+
   成套内容包含：
-  
+
   - 高并发系统设计 40 问
   - JAVA 架构师直通车（学习中）
 
