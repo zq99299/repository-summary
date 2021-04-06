@@ -12,6 +12,8 @@
 
 本账户下的笔记项目越来越多，比较凌乱，特将一些比较可以的仓库分类成导航目录，方便查阅
 
+> 如果你打不开 GitHub 相关网页，可以安装 **[ dev-sidecar](https://github.com/docmirror/dev-sidecar)** 工具，应该就可以访问了，也能在线阅读本笔记了
+
 ## 仓库类 🎉
 - [essay-note](https://github.com/zq99299/essay-note) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/essay-note)
@@ -33,16 +35,34 @@
   - 缓存架构-亿级流量电商详情页系统实战
   - 设计模式（某课）、研磨设计模式
   - Spring Cloud Config 官网教程阅读笔记
+  - 正则入门
+  - CSS 深入理解-张星旭（重学版）
+  - 后端存储实战
+  - 说透中台
+  - Oath 2.0 实战
+  - Git 系统学习笔记
   
-  另外包含一些零散的知识：mycat、gradle、npm、k8s、docker、virtualbox 等内容
-- [note-book2](https://github.com/zq99299/note-book2)  
-    
+  另外包含一些零散的知识：mycat、gradle、npm、k8s、docker、virtualbox 、vuepress 等内容
+  
+- [note-book2](https://github.com/zq99299/note-book2) &nbsp; &nbsp; 
+![GitHub stars](https://img.shields.io/github/stars/zq99299/note-book2)
+![GitHub forks](https://img.shields.io/github/forks/zq99299/note-book2)
+  
   note-book2 分仓，主仓由于笔记文件太多，导致 vuepress 构建吃力。
+  
+  成套内容包含：
+  
+  - JAVA 生产环境下性能监控与调优详解
+  - 透视 HTTP 协议
+  - DDD 实战课（学习中）
+  
 - [java-tutorial](https://github.com/zq99299/java-tutorial) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/java-tutorial)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/java-tutorial)
 
   Java8 官网教程文档，机翻 + 经验实践
+  
+  「基础篇」已完成，「高级篇」已更新至「JDBC 数据库访问」，由于最近都在学习其他方面的知识，该项目可能很长一段时间都不会继续更新了
   
 - [linux-tutorial](https://github.com/zq99299/linux-tutorial) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/linux-tutorial)
@@ -51,29 +71,45 @@
   linux 系列教程笔记，目前有《Linux 基础篇（鸟哥私房菜）- 第四版》 
   
 - [mysql-tutorial](https://github.com/zq99299/mysql-tutorial) &nbsp; &nbsp; 
-![GitHub stars](https://img.shields.io/github/stars/zq99299/mysql-tutorial)
-![GitHub forks](https://img.shields.io/github/forks/zq99299/mysql-tutorial)
+  ![GitHub stars](https://img.shields.io/github/stars/zq99299/mysql-tutorial)
+  ![GitHub forks](https://img.shields.io/github/forks/zq99299/mysql-tutorial)
 
-  mysql 系列知识，包含《某课 给程序员的 MySQL 必知必会》、《阿里新零售数据库设计与实战》
+  mysql 系列知识，成套内容包含：
+
+  - 某课 给程序员的 MySQL 必知必会
+  - 阿里新零售数据库设计与实战
+  - 高性能 MySQL 第三版（太难，只学习了其中一部分，实在看不懂，看不下去了）
 
 - [mq-tutorial](https://github.com/zq99299/mq-tutorial) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/mq-tutorial)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/mq-tutorial)
 
-  mq 系列知识：《RabbitMq 实战指南》
+  mq 系列知识，成套内容包含：RabbitMq 实战指南
   
 - [dsalg-tutorial](https://github.com/zq99299/dsalg-tutorial) &nbsp; &nbsp; 
 ![GitHub stars](https://img.shields.io/github/stars/zq99299/dsalg-tutorial)
 ![GitHub forks](https://img.shields.io/github/forks/zq99299/dsalg-tutorial)
 
-  数据结构与算法 系列知识，学习中
+  数据结构与算法 系列知识，成套内容包含 ：图解 Java 数据结构和算法
   
-- [note-combat](https://github.com/zq99299/note-combat)
+- [note-combat](https://github.com/zq99299/note-combat)&nbsp; &nbsp; 
+![GitHub stars](https://img.shields.io/github/stars/zq99299/note-combat)
+![GitHub forks](https://img.shields.io/github/forks/zq99299/note-combat)
 
   实战笔记：主要定位是在工作中实际遇到的难题、没有接触过、或稍有难度的真实场景解决记录；
-- [note-architect](https://github.com/zq99299/note-architect)
+  
+  更新缓慢，有时候可能记不起来需要记录。
+  
+- [note-architect](https://github.com/zq99299/note-architect) &nbsp; &nbsp; 
+![GitHub stars](https://img.shields.io/github/stars/zq99299/note-architect)
+![GitHub forks](https://img.shields.io/github/forks/zq99299/note-architect)
 
   架构师笔记：主要定位是对架构师系统学习相关笔记；
+  
+  成套内容包含：
+  
+  - 高并发系统设计 40 问
+  - JAVA 架构师直通车（学习中）
 
 ## 笔记系列 📖 
 由于某些笔记是放在一个大仓库的笔记本中的，某些笔记还不错，这里做一部分的汇总；
