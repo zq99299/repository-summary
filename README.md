@@ -58,7 +58,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/zq99299/note-book2)
   ![GitHub forks](https://img.shields.io/github/forks/zq99299/note-book2)
 
-  note-book2 分仓，主仓由于笔记文件太多，导致 vuepress 构建吃力。
+  note-book 分仓，主仓由于笔记文件太多，导致 vuepress 构建吃力。
 
   成套内容包含：
 
