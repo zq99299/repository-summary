@@ -108,7 +108,7 @@
 
   实战笔记：主要定位是在工作中实际遇到的难题、没有接触过、或稍有难度的真实场景解决记录；
 
-  此类笔记由于便捷性较高，转而使用语雀来记录，[语雀地址](https://www.yuque.com/mrcode.cn/note-actual)
+  此类笔记由于便捷性较高，转而使用语雀来记录，[语雀地址](https://www.yuque.com/mrcode.cn/note-combat)
 
 - [note-architect](https://github.com/zq99299/note-architect) &nbsp; &nbsp; 
   ![GitHub stars](https://img.shields.io/github/stars/zq99299/note-architect)
