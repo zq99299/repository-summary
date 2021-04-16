@@ -13,6 +13,7 @@
 本账户下的笔记项目越来越多，比较凌乱，特将一些比较可以的仓库分类成导航目录，方便查阅
 
 > 如果你打不开 GitHub 相关网页，可以安装 **[ dev-sidecar](https://github.com/docmirror/dev-sidecar)** 工具，应该就可以访问了，也能在线阅读本笔记了
+
 > 有部分仓库同步到了 [Gitee，也可以前去阅读](https://gitee.com/zhuqiang/mrcode)
 
 ## 仓库类 🎉
