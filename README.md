@@ -14,7 +14,7 @@
 
 > 如果你打不开 GitHub 相关网页，可以安装 **[ dev-sidecar](https://github.com/docmirror/dev-sidecar)** 工具，应该就可以访问了，也能在线阅读本笔记了
 
-> 有部分仓库同步到了 [Gitee，也可以前去阅读](https://gitee.com/zhuqiang/mrcode)，由于无法设置自动同步，可能不是最新的，可在 [讨论区](https://github.com/zq99299/repository-summary/discussions/2) 跟帖提醒我
+> 🎉 由于笔记太多太分散，需要笔记的时候往往很难找到所需要的笔记，决定以后的新增笔记将会在 [语雀](https://www.yuque.com/mrcode.cn) 上更新
 
 ## 仓库类 🎉
 - [essay-note](https://github.com/zq99299/essay-note) &nbsp; &nbsp; 
