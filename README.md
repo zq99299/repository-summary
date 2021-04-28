@@ -7,14 +7,7 @@
     <br/>
     <a href="https://jq.qq.com/?_wv=1027&k=RE3803x2" target="_blank">点击链接加入群聊【技术笔记分享】</a>
 </p>
-<div style="text-align: center">
 
-[![QQ](https://img.shields.io/badge/QQ-99299684-67ab82?logo=Tencent-QQ)](http://wpa.qq.com/msgrd?v=3&uin=99299684&site=qq&menu=yes) 
-[![CSDN](https://img.shields.io/badge/CSDN-%20-67ab82?logo=bloglovin)](https://blog.csdn.net/mr_zhuqiang) 
-[![GitHub](https://img.shields.io/badge/GitHub-%20-67ab82?logo=github)](https://github.com/zq99299) 
-[![语雀](https://img.shields.io/badge/yuque-语雀-67ab82?logo=)](https://www.yuque.com/mrcode.cn) 
-
-</div>
 
 # 仓库汇总精选 😎
 
@@ -23,6 +16,11 @@
 > 如果你打不开 GitHub 相关网页，可以安装 **[ dev-sidecar](https://github.com/docmirror/dev-sidecar)** 工具，应该就可以访问了，也能在线阅读本笔记了
 
 > 🎉 由于笔记太多太分散，需要笔记的时候往往很难找到所需要的笔记，决定以后的新增笔记将会在 [语雀](https://www.yuque.com/mrcode.cn) 上更新
+
+[![QQ](https://img.shields.io/badge/QQ-99299684-67ab82?logo=Tencent-QQ)](http://wpa.qq.com/msgrd?v=3&uin=99299684&site=qq&menu=yes) 
+[![CSDN](https://img.shields.io/badge/CSDN-%20-67ab82?logo=bloglovin)](https://blog.csdn.net/mr_zhuqiang) 
+[![GitHub](https://img.shields.io/badge/GitHub-%20-67ab82?logo=github)](https://github.com/zq99299) 
+[![语雀](https://img.shields.io/badge/yuque-语雀-67ab82?logo=)](https://www.yuque.com/mrcode.cn) 
 
 ## 仓库类 🎉
 - [essay-note](https://github.com/zq99299/essay-note) &nbsp; &nbsp; 
