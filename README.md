@@ -7,6 +7,14 @@
     <br/>
     <a href="https://jq.qq.com/?_wv=1027&k=RE3803x2" target="_blank">点击链接加入群聊【技术笔记分享】</a>
 </p>
+<div style="text-align: center">
+
+[![QQ](https://img.shields.io/badge/QQ-99299684-67ab82?logo=Tencent-QQ)](http://wpa.qq.com/msgrd?v=3&uin=99299684&site=qq&menu=yes) 
+[![CSDN](https://img.shields.io/badge/CSDN-%20-67ab82?logo=bloglovin)](https://blog.csdn.net/mr_zhuqiang) 
+[![GitHub](https://img.shields.io/badge/GitHub-%20-67ab82?logo=github)](https://github.com/zq99299) 
+[![语雀](https://img.shields.io/badge/yuque-语雀-67ab82?logo=)](https://www.yuque.com/mrcode.cn) 
+
+</div>
 
 # 仓库汇总精选 😎
 
