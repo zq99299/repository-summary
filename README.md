@@ -72,7 +72,7 @@
 
   - JAVA 生产环境下性能监控与调优详解
   - 透视 HTTP 协议
-  - DDD 实战课（学习中）
+  - DDD 实战课
 
 - [java-tutorial](https://github.com/zq99299/java-tutorial) &nbsp; &nbsp; 
   ![GitHub stars](https://img.shields.io/github/stars/zq99299/java-tutorial)
@@ -127,7 +127,7 @@
   成套内容包含：
 
   - 高并发系统设计 40 问
-  - JAVA 架构师直通车（学习中）
+  - JAVA 架构师直通车（已转到语雀继续学习记录）
 
 ## 笔记系列 📖 
 由于某些笔记是放在一个大仓库的笔记本中的，某些笔记还不错，这里做一部分的汇总；
