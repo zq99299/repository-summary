@@ -3,9 +3,9 @@
      <img width="300" src="./BIGMLOGO.gif" alt="logo">
     </a>
     <br/>
-    <span>希望聚集一些有自己精彩笔记分享的人</span>
+    <!-- <span>希望聚集一些有自己精彩笔记分享的人</span>
     <br/>
-    <a href="https://jq.qq.com/?_wv=1027&k=RE3803x2" target="_blank">点击链接加入群聊【技术笔记分享】</a>
+    <a href="https://jq.qq.com/?_wv=1027&k=RE3803x2" target="_blank">点击链接加入群聊【技术笔记分享】</a> -->
 </p>
 
 
@@ -16,6 +16,8 @@
 > 如果你打不开 GitHub 相关网页，可以安装 **[ dev-sidecar](https://github.com/docmirror/dev-sidecar)** 工具，应该就可以访问了，也能在线阅读本笔记了
 
 > 🎉 由于笔记太多太分散，需要笔记的时候往往很难找到所需要的笔记，决定以后的新增笔记将会在 [语雀](https://www.yuque.com/mrcode.cn) 上更新
+
+> 目前在 **[语雀](https://www.yuque.com/mrcode.cn)** 写作，GitHub 暂时不会更新笔记了。
 
 [![QQ](https://img.shields.io/badge/QQ-99299684-67ab82?logo=Tencent-QQ)](http://wpa.qq.com/msgrd?v=3&uin=99299684&site=qq&menu=yes) 
 [![CSDN](https://img.shields.io/badge/CSDN-%20-67ab82?logo=bloglovin)](https://blog.csdn.net/mr_zhuqiang) 
